@@ -7,6 +7,7 @@ Here are some of the skills that I have acquired so far:
 * Java
 * Web development
 * Python
+* JS/TS
 * C++
 * MySQL
 * Linux
