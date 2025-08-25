@@ -1,19 +1,15 @@
 # Greetings! 👋
 
-My name is Gabriel and I am thrilled to introduce myself as a computer engineering student at the prestigious University Politehnica of Bucharest (UPB). As an avid learner, I am always on the lookout for new opportunities to expand my knowledge and skills.
+I'm Gabriel, a **Software Engineer** and **AI & Full-Stack Developer** with a passion for building intelligent systems and scalable solutions.
 
-Here are some of the skills that I have acquired so far:
+### 🛠️ Core Expertise
+- **AI & Automation:** NLP, Multi-Agent Systems, LLM Integration
+- **Full-Stack Development:** React, NestJS, TypeScript, Python, Java, C++
+- **Cloud & DevOps:** Azure, Docker, Kubernetes, Terraform, Linux
 
-* Java
-* Web development
-* Python
-* JS/TS
-* C++
-* MySQL
-* Linux
+I specialize in creating AI-powered applications, automating complex workflows, and designing robust cloud architectures. I'm always excited to collaborate on innovative projects and explore new technologies.
 
-My ultimate goal is to make a meaningful impact in the tech industry by constantly exploring new technologies and finding innovative ways to apply my knowledge and skills. I am always open to collaboration and learning new things.
+📁 Check out my work on [GitHub](https://github.com/Gabriel-x-1)  
+💼 Connect with me on [LinkedIn](https://linkedin.com/Gabi)  
 
-You can check out my resume on my Github repository (https://github.com/Gabriel-x-1/Gabriel-x-1) to get a more in-depth look at my experiences and projects. Additionally, you can find me on Github as Gabriel-x-1 and LinkedIn, where you can see my skills, experiences, and projects.
-
-If you have any questions or just want to chat about tech and opportunities, feel free to reach out to me. I am always happy to connect and share ideas! 🤝🚀
+Feel free to reach out — I'm always open to discussing tech, opportunities, or potential collaborations! 🤝🚀
