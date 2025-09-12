@@ -9,7 +9,7 @@ I'm Gabriel, a **Software Engineer** and **AI & Full-Stack Developer** with a pa
 
 I specialize in creating AI-powered applications, automating complex workflows, and designing robust cloud architectures. I'm always excited to collaborate on innovative projects and explore new technologies.
 
-📁 Check out my work on [GitHub](https://github.com/Gabriel-x-1)  
+
 💼 Connect with me on [LinkedIn](https://linkedin.com/Gabi)  
 
 Feel free to reach out — I'm always open to discussing tech, opportunities, or potential collaborations! 🤝🚀
